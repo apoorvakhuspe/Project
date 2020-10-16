@@ -1,0 +1,5 @@
+*.class
+*.jar
+/bin/
+Testdata.xslx
+~$File.docx

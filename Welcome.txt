@@ -1,1 +1,2 @@
-Welcome to git
+Welcome to git demo: done by team mate on master for WI5
+Check rebase merging
